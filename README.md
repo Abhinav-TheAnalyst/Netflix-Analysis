@@ -131,14 +131,14 @@ This project demonstrates hiring-relevant skills:
 
 ## 🤝 Contact
 
-* **GitHub:** [https://github.com/Abhinav-TheAnalyst/Netflix-Analysis](https://github.com/Abhinav-TheAnalyst/Netflix-Analysis)
+* **GitHub:** [https://github.com/Abhinav-TheAnalyst/Netflix-Analysis](https://github.com/Abhinav-TheAnalyst)
 * **LinkedIn:** [https://www.linkedin.com/in/abhinav-theanalyst/](https://www.linkedin.com/in/abhinav-theanalyst/)
 
 ---
 
 ## 📜 License
 
-Portfolio project. Netflix dataset sourced from public datasets (e.g., Kaggle) under their original terms.
+Portfolio project View **MIT** [License](https://github.com/Abhinav-TheAnalyst/Netflix-Analysis/blob/main/LICENSE)
 
-**Status:** ✅ Production-Ready
+**Status:** ✅ Ready
 **Purpose:** Portfolio project for Data Analyst / Data Engineer roles
