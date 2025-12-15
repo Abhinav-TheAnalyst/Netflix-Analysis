@@ -16,13 +16,31 @@ This project cleans and analyzes a raw Netflix dataset and produces a single, an
 
 ---
 
-## 📊 Project Dashboard
+## 📊 Data Visualizations
 
-![Titles by Type](assets/fig-type.svg)
+### Content Overview
+![Titles by Type](assets/fig-type.png)
+*Movies dominate the catalog at 70%, with TV Shows making up 30%*
 
-![Top Genres](assets/fig-genres.svg)
+![Top Genres](assets/fig-genres.png)
+*International Movies and Dramas lead, showing Netflix's global content strategy*
 
-![Top Countries](assets/fig-countries.svg)
+![Top Countries](assets/fig-countries.png)
+*United States and India are the top content producers in the catalog*
+
+### Temporal Trends
+![Release Year Trend](assets/fig-release-year.png)
+*Content production exploded after 2015, peaking in 2018*
+
+![Year Added to Netflix](assets/fig-year-added.png)
+*Netflix rapidly expanded its library, adding 2,000+ titles in peak years*
+
+### Content Details
+![Rating Distribution](assets/fig-ratings.png)
+*Mature content (TV-MA) is most common, followed by teen-oriented shows*
+
+![Duration Patterns](assets/fig-duration.png)
+*Movies average 100 minutes; most TV shows have 1-2 seasons*
 
 ---
 
