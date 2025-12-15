@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240">
+  <rect width="600" height="240" fill="#fff"/>
+  <text x="300" y="28" font-size="18" text-anchor="middle" fill="#333">Top Genres (sample)</text>
+  <g fill="#e45756"><rect x="60" y="60" width="360" height="28"/></g>
+  <text x="60" y="85" font-size="12" fill="#333">International Movies — 2,752</text>
+  <g fill="#72b7b2"><rect x="60" y="100" width="300" height="28"/></g>
+  <text x="60" y="125" font-size="12" fill="#333">Dramas — 2,426</text>
+  <g fill="#54a24b"><rect x="60" y="140" width="210" height="28"/></g>
+  <text x="60" y="165" font-size="12" fill="#333">Comedies — 1,674</text>
+</svg>

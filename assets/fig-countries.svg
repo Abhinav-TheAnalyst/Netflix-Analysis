@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240">
+  <rect width="600" height="240" fill="#fff"/>
+  <text x="300" y="28" font-size="18" text-anchor="middle" fill="#333">Top Countries (sample)</text>
+  <g fill="#8da0cb"><rect x="60" y="60" width="380" height="24"/></g>
+  <text x="60" y="78" font-size="12" fill="#333">United States — 3,240</text>
+  <g fill="#e78ac3"><rect x="60" y="96" width="140" height="24"/></g>
+  <text x="60" y="114" font-size="12" fill="#333">India — 1,057</text>
+  <g fill="#a6d854"><rect x="60" y="132" width="90" height="24"/></g>
+  <text x="60" y="150" font-size="12" fill="#333">UK — 638</text>
+</svg>
