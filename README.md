@@ -6,7 +6,7 @@ Last updated: December 2025
 TL;DR
 - I cleaned and analyzed a raw Netflix dataset and produced a single, analysis-ready CSV: `processed/netflix_cleaned.csv`. This README contains the key results, simple dashboard images, and the minimal steps to reproduce the cleaning.
 
-Project dashboard (static placeholders)
+Project dashboard
 
 ![Titles by Type](assets/fig-type.svg)
 
@@ -14,7 +14,7 @@ Project dashboard (static placeholders)
 
 ![Top Countries](assets/fig-countries.svg)
 
-How I built this (short)
+How I built this
 - I wrote a small, deterministic ETL script `scripts/data_processing.py` that normalizes columns, trims strings, parses dates and durations, deduplicates, and adds a few light features (`duration_int`, `duration_type`, `cast_count`, `year_added`).
 - The Jupyter notebook `notebooks/EDA.ipynb` contains the charts and short commentary. You can open the notebook to explore the visuals interactively.
 
