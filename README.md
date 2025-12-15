@@ -3,7 +3,6 @@
 Author: Abhinav
 Last updated: December 2025
 
-TL;DR
 - I cleaned and analyzed a raw Netflix dataset and produced a single, analysis-ready CSV: `processed/netflix_cleaned.csv`. This README contains the key results, simple dashboard images, and the minimal steps to reproduce the cleaning.
 
 Project dashboard
@@ -234,10 +233,10 @@ Portfolio project - Netflix dataset sourced from Kaggle under their terms.
 
 **Last Updated:** December 2025  
 **Status:** ✅ Production-Ready  
-**Purpose:** Professional Portfolio for Data Analyst/Engineer Roles
+**Purpose:** Portfolio Project for Data Analyst/Engineer Roles
 If you'd like to discuss this project or data analytics roles: 
-Contact: Abhinav
-GitHub: https://github.com/abhinav
-LinkedIn: https://linkedin.com/in/abhinav
+Contact: Abhinav Verma
+GitHub: https://github.com/Abhinav-TheAnalyst
+LinkedIn: https://linkedin.com/in/abhinav-theanalyst
 
 | **Data Analysis** | Statistical insight generation & pattern recognition |
